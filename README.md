@@ -1,4 +1,11 @@
 # Tupper-s-self-referential-Formula
+
+## One of the most unique different kind of formula to exist at the intersection of programing and mathematics
+### It is really interesting that you could really have such a formula that has plot of everything in it. you just need to know where it is. 
+#### There's one site that helps find value of y i.e. k value where that plot exists on the Y axis of the plot of this formula.
+
+You just need to use that site to draw the plot and get the value of k.
+
 The Formula is itself a function that is a universal plot. Finding the postion on Y axis where that plot exist is the only thing to be done from `https://keelyhill.github.io/tuppers-formula/`
 
     xxxxxxxxx  x     x     x      x       x   x    x   xxxx     x                                         
