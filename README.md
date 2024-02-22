@@ -22,5 +22,5 @@ This repository hosts a code that calculates and plots the following formula for
 
 ![image](https://github.com/CasterShade/Tupper-s-self-referential-Formula/blob/main/tuppers%20self%20referential%20formula.png)
 
-Where k is Graphing the set of points (x,y) in 0 <= x < 106 and k <= y < k+17 using the inequality above.
+Where k is the y value at which we are Graphing the set of points `(x,y) in 0 <= x < 106 and k <= y < k+17` using the inequality above.
 
