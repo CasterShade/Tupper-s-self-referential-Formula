@@ -20,5 +20,5 @@ Now, the above plot exists at exactly
 This repository hosts a code that calculates and plots the following formula for a particular value of K:
 
 
-![image](https://github.com/CasterShade/Tupper-s-self-referential-Formula/assets/73401525/6a63fc87-524c-4159-af5a-d4f068efd116)
+![image](https://github.com/CasterShade/Tupper-s-self-referential-Formula/blob/main/tuppers%20self%20referential%20formula.png)
 
