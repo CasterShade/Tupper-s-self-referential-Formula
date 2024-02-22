@@ -30,5 +30,5 @@ Where k is the y value at which we are Graphing the set of points `(x,y) in 0 <=
 
 It is really interesting that you could really have such a formula that has plot of everything in it. 
 
-You just need to know where it is.<br> There's one site that helps find value of y i.e. k value where that plot exists on the Y axis of the plot of this formula.
+Note: You just need to know where it is. There's one site that helps find value of y i.e. k value where that plot exists on the Y axis of the plot of this formula.
 You just need to use that site to draw the plot and get the value of k.
